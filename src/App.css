@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  padding: 20rem;
+  /* background-color: aliceblue; */
+}
+
+.verigiris{
+  display: flex;
+  flex-direction: column;
+  gap:15px;
+}
+
+table, th, td {
+  border:1px solid black;
+}
